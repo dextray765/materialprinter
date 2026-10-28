@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.65"
+        android:scaleY="0.65"
+        android:translateX="18.9"
+        android:translateY="18.9">
+        <!-- Printer main body -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M24,36 C24,29.4 29.4,24 36,24 L72,24 C78.6,24 84,29.4 84,36 L84,72 C84,78.6 78.6,84 72,84 L36,84 C29.4,84 24,78.6 24,72 Z" />
+        <!-- Paper exit slot -->
+        <path
+            android:fillColor="#203E54"
+            android:pathData="M32,46 L76,46 C77.1,46 78,46.9 78,48 C78,49.1 77.1,50 76,50 L32,50 C30.9,50 30,49.1 30,48 C30,46.9 30.9,46 32,46 Z" />
+        <!-- Printed paper coming out -->
+        <path
+            android:fillColor="#EAF3FA"
+            android:pathData="M36,26 L72,26 L72,46 L36,46 Z" />
+        <!-- Lines on paper -->
+        <path
+            android:fillColor="#6A8CA6"
+            android:pathData="M40,30 L68,30 L68,32 L40,32 Z M40,35 L62,35 L62,37 L40,37 Z M40,40 L56,40 L56,42 L40,42 Z" />
+        <!-- Indicator LED -->
+        <path
+            android:fillColor="#4CAF50"
+            android:pathData="M34,64 A3,3 0 1,0 40,64 A3,3 0 1,0 34,64" />
+        <!-- Power / Feed button -->
+        <path
+            android:fillColor="#D0E3F2"
+            android:pathData="M66,60 L74,60 C75.1,60 76,60.9 76,62 L76,66 C76,67.1 75.1,68 74,68 L66,68 C64.9,68 64,67.1 64,66 L64,62 C64,60.9 64.9,60 66,60 Z" />
+    </group>
+</vector>
