@@ -11,6 +11,7 @@ Thumbs.db
 /.idea/navEditor.xml
 /.idea/assetWizardSettings.xml
 
+app/release/
 build/
 captures/
 .externalNativeBuild
