@@ -1,7 +1,5 @@
 # Material Printer
 
----
-
 ##### [Русский](README.md) | [English](README_en.md)
 
 > [!WARNING]
