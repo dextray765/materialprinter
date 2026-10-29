@@ -4,9 +4,9 @@
 
 > [!WARNING]
 >
-> Внимание: приложение не поддерживает английский.
+> Внимание: приложение не поддерживает английский язык.
 
-Этот проект не имеет никакого отношения к оригинальному приложению WalkPrint и Shenzhen Yihengke Electronic Technology Co. Ltd.
+Этот проект не имеет никакого отношения к оригинальному приложению WalkPrint и компании Shenzhen Yihengke Electronic Technology Co. Ltd.
 
 ---
 
